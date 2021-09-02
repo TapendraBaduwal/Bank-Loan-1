@@ -1,5 +1,6 @@
 # Bank-Loan-Classification-and-Provision-1
 The bank and financial institution loan can be classified according to the overdue of the credit period.
+
 loan classification | meaning|provision |
 --- | --- | --- | 
 pass loan | Not overdue/Overdue up to 1 month | 1% |
