@@ -1,4 +1,4 @@
-# Bank-Loan-Classification-and-Provision-1
+# Simple Bank-Loan-Classification-and-Provision Test
 The bank and financial institution loan can be classified according to the overdue of the credit period.
 
 loan classification | meaning|provision |
